@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # profile-site
 ![image](src/img/showcase.png)
 [![GitHub repository](https://img.shields.io/badge/GitHub-chi--0828%2Fprofile--site-blue.svg)](https://github.com/chi-0828/profile-site)
@@ -121,3 +122,6 @@ The project is under-going
 - add the animation of terminal-style text printing
 - ~~add a new tab for "Project"~~
 - ~~change the source code to React project (done)~~
+=======
+# finance-with-ambika.github.io
+>>>>>>> 116ef9d6295bff8e845c5dc4f5f8dedf87653ea4
